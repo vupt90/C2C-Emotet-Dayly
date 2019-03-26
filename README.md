@@ -1,1 +1,1 @@
-# Emotet-C-C
+# Emotet C&C Dayly
